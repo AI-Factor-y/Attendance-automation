@@ -17,7 +17,8 @@ python auto.py
 important information regarding selenium
 ----------------------------------------
 the code uses the chrome driver for automating the web browser . 
-make sure you have chrome installed and running on your pc
+make sure you have chrome installed and running on your pc.
+
 install a chrome driver from https://chromedriver.chromium.org/downloads
 
 whats inside
