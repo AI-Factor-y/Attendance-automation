@@ -26,14 +26,19 @@ whats inside
 1. timetable.py
 
 contains data for timetable and links
+
 timetable data with timetable format [[hour,minute],"subject_name"]
+
 order of slots doesn't matter .
+
 give the time of slot as the time when the link for attendance comes in the eduserver 
 
 2. auto.py
 
 main script file
+
 provide user details here
+
 you can change the working of the script from here
 
 important parameters in auto.py
